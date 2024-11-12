@@ -1,0 +1,3 @@
+﻿  MainLogics.cpp
+C:\Users\Home\Desktop\New folder\akinator\akinator\akinator\MainLogics.cpp(10,22): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+  akinator.vcxproj -> C:\Users\Home\Desktop\New folder\akinator\akinator\x64\Debug\akinator.exe
